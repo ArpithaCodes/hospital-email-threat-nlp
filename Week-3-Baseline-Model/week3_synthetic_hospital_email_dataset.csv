@@ -1,0 +1,46 @@
+message_id,email_text,label
+synthetic_001,Your scheduled hospital appointment is confirmed for tomorrow at 10 AM.,Safe
+synthetic_002,Please find your laboratory report attached to this secure hospital message.,Safe
+synthetic_003,The radiology department has confirmed your MRI appointment for Monday.,Safe
+synthetic_004,Your insurance claim has been received by the hospital billing office.,Safe
+synthetic_005,Reminder: your prescription is ready for collection from the hospital pharmacy.,Safe
+synthetic_006,The hospital HR team invites you to the mandatory staff training session.,Safe
+synthetic_007,Your annual health check appointment has been scheduled by the clinic.,Safe
+synthetic_008,Please review the approved patient discharge instructions in the portal.,Safe
+synthetic_009,The finance department has issued the monthly hospital invoice.,Safe
+synthetic_010,Your medical records request has been received and is being processed.,Safe
+synthetic_011,Please attend the scheduled nursing department meeting at 3 PM.,Safe
+synthetic_012,The laboratory has completed the requested blood test and updated the portal.,Safe
+synthetic_013,Your appointment reminder from the hospital clinic is attached.,Safe
+synthetic_014,The hospital procurement team confirms the delivery date for medical supplies.,Safe
+synthetic_015,Please use the official patient portal to view your test results.,Safe
+synthetic_016,Your hospital account needs a quick verification before today's appointment.,Suspicious
+synthetic_017,Please confirm your staff details using the link below to avoid temporary access issues.,Suspicious
+synthetic_018,An unusual login was detected on your hospital portal; review the activity soon.,Suspicious
+synthetic_019,Your insurance information appears incomplete and should be checked.,Suspicious
+synthetic_020,Please open the attached document and confirm the billing information.,Suspicious
+synthetic_021,Your pharmacy account may be suspended unless you verify your details.,Suspicious
+synthetic_022,The vendor requests confirmation of updated payment information.,Suspicious
+synthetic_023,Your medical portal password will expire soon; confirm your account information.,Suspicious
+synthetic_024,Please review this urgent invoice correction and reply with confirmation.,Suspicious
+synthetic_025,A hospital service update requires you to verify some account details.,Suspicious
+synthetic_026,Your employee access record needs confirmation before the next shift.,Suspicious
+synthetic_027,Please check the attached claim notice and confirm whether the details are correct.,Suspicious
+synthetic_028,We noticed an issue with your registration information and need a response.,Suspicious
+synthetic_029,Your account activity requires review; use the provided portal address.,Suspicious
+synthetic_030,Please confirm the recipient details before the payment request is processed.,Suspicious
+synthetic_031,Urgent: your hospital account will be disabled today unless you verify your password here.,Dangerous
+synthetic_032,Click this link immediately to unlock your patient portal and confirm your login credentials.,Dangerous
+synthetic_033,Your insurance payment failed. Send your card details to avoid cancellation.,Dangerous
+synthetic_034,Open the attached invoice and enable macros to release the hospital payment.,Dangerous
+synthetic_035,Security alert: verify your username and password at this external login page now.,Dangerous
+synthetic_036,Your prescription cannot be released until you enter your banking information.,Dangerous
+synthetic_037,Immediate action required: send the administrator your one-time authentication code.,Dangerous
+synthetic_038,Your hospital account has been compromised. Confirm your credentials using this link.,Dangerous
+synthetic_039,Transfer the outstanding vendor payment to this new bank account immediately.,Dangerous
+synthetic_040,Download the attached security update and run the executable to protect your workstation.,Dangerous
+synthetic_041,Failure to provide your password within one hour will result in account termination.,Dangerous
+synthetic_042,Send patient portal credentials by reply so the support team can restore access.,Dangerous
+synthetic_043,Click the external link to claim your urgent medical insurance refund.,Dangerous
+synthetic_044,Open the attachment and enter your login details to prevent account suspension.,Dangerous
+synthetic_045,Finance department urgently requests a bank transfer to the new supplier account.,Dangerous
